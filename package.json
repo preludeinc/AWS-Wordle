@@ -1,0 +1,11 @@
+{
+  "name": "aws-wordle",
+  "version": "1.0.0",
+  "description": "Includes lambda functions used to drive wordle implementation, along with the UI ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JG",
+  "license": "ISC"
+}
